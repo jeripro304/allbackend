@@ -1,0 +1,63 @@
+package com.selfservicecentre.service;
+
+import java.util.List;
+import java.util.Random;
+import java.util.stream.Collectors;
+
+import org.springframework.stereotype.Service;
+
+import com.selfservicecentre.dto.RequestUser;
+import com.selfservicecentre.entity.User;
+import com.selfservicecentre.userrepo.UserRepository;
+
+import lombok.RequiredArgsConstructor;
+
+@Service
+@RequiredArgsConstructor
+public class UserSerice {
+	
+	private final UserRepository userRepo;
+	
+	
+	public String addUser(RequestUser requser ) {
+		List<User> allAccountNumbers =userRepo.findAll();
+		String accountNo=accontNumberGenerate();
+		
+		 List<String> allaccno = allAccountNumbers.stream()
+	                .map(User::getAccNo) // Modify to match your actual property name
+	                .collect(Collectors.toList());
+		 for (String i:allaccno) {
+			 if (i==accountNo) {
+				 System.out.println("Account number already present");
+			 }
+			 else System.out.println("This is new");
+		 }
+		
+		
+		
+		
+		User u=User.builder().accNo(accontNumberGenerate()).fname(requser.getFname())
+				.lname(requser.getLname())
+				.mobileno(requser.getMobileno())
+				.email(requser.getEmail())
+				.dob(requser.getDob())
+				.address(requser.getAddress())
+				.city(requser.getCity())
+				.state(requser.getState())
+				.zip(requser.getZip())
+				.service(requser.getService()).build();
+		System.out.println("this is at the add user in db");
+		System.out.println(u);
+		return "created";
+		
+	}
+	
+	public String accontNumberGenerate() {
+		Random rand=new Random();
+		long accno=  (long) (Math.pow(11, 11)+ rand.nextInt(99));
+		String accountNumber= Long.toString(accno);
+		System.out.println(accountNumber);
+		return accountNumber;
+	}
+
+}

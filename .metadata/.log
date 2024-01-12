@@ -1,0 +1,2577 @@
+!SESSION 2023-10-19 19:14:29.998 -----------------------------------------------
+eclipse.buildId=4.19.0.202306150758
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+This is a continuation of log file C:\Users\jersish.j\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\.metadata\.bak_0.log
+Created Time: 2023-10-19 22:39:16.744
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 22:39:16.744
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 22:39:16.762
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 22:39:16.763
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 22:40:19.887
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 22:40:19.906
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 22:40:19.907
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 22:40:39.166
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 22:40:39.185
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 22:40:39.186
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 22:40:56.437
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 22:40:56.454
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 22:40:56.454
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 22:41:22.874
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 22:41:22.891
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 22:41:22.891
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 22:41:35.356
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 22:41:35.374
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 22:41:35.375
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 22:42:07.396
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 22:42:07.413
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 22:42:07.415
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 22:42:22.085
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 22:42:22.103
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 22:42:22.103
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 22:42:34.215
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 22:42:34.232
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 22:42:34.232
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 22:43:37.691
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 22:43:37.706
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 22:43:37.707
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 22:48:44.945
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 22:48:44.959
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 22:48:44.960
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:06:04.516
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:06:04.531
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:06:04.531
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:07:38.371
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:07:38.388
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:07:38.389
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:07:46.276
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:07:46.292
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:07:46.293
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:10:12.102
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:10:12.120
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:10:12.120
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:10:34.913
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:10:34.931
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:10:34.932
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:11:04.311
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:11:04.329
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:11:04.330
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:11:06.422
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:11:06.439
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:11:06.440
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:13:04.602
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:13:04.617
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:13:04.618
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:16:12.679
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:16:12.695
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:16:12.695
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:16:31.658
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:16:31.672
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:16:31.673
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:19:30.079
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:19:30.094
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:19:30.095
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:19:32.265
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:19:32.280
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:19:32.280
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:20:39.416
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:20:39.449
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:20:39.450
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:20:44.354
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:20:44.382
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:20:44.383
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:20:46.478
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:20:46.493
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:20:46.494
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:20:48.685
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:20:48.698
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:20:48.699
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:21:33.986
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:21:34.001
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:21:34.002
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:50:45.260
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:50:45.280
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:50:45.281
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-19 23:52:04.940
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-19 23:52:04.955
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-19 23:52:04.956
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 00:33:48.789
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-20 00:33:48.804
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-20 00:33:48.805
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 00:34:02.761
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-20 00:34:02.777
+!MESSAGE executing callback sts4.classpath.Adistuhv FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-20 00:34:02.778
+!MESSAGE No language server has registered to handle command 'sts4.classpath.Adistuhv'
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Adistuhv'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.lambda$1(LSP4ECommandExecutor.java:32)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:32)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2023-10-20 08:20:54.588 -----------------------------------------------
+eclipse.buildId=4.19.0.202306150758
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-10-20 08:20:57.093
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.jface 2 0 2023-10-20 08:24:19.847
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-10-20 08:24:19.847
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-20 08:24:26.228
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin\javaw.exe
+-cp
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/jersish.j/Documents/workspace-spring-tool-suite-4-4.19.0.RELEASE/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1697770466226
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:26.230
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-20 08:24:26.270
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 3804
+
+!ENTRY org.eclipse.lsp4e 4 0 2023-10-20 08:24:26.338
+!MESSAGE org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+!STACK 0
+java.lang.ClassNotFoundException: org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:541)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:536)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:622)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.getServerInterface(LanguageServersRegistry.java:196)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:291)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-10-20 08:24:29.005
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jersish.j'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.244
+!MESSAGE Boot project ADDED: Api-Gateway
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.245
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.250
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.251
+!MESSAGE Boot project ADDED: InventoryService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.253
+!MESSAGE Boot project ADDED: OrderService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.255
+!MESSAGE Boot project ADDED: Otp_Login_SelfService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.256
+!MESSAGE Boot project ADDED: ProductServices
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.257
+!MESSAGE Boot project ADDED: Promart
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.259
+!MESSAGE Boot project ADDED: RestAPI
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.260
+!MESSAGE Boot project ADDED: RestJPAUsingAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.261
+!MESSAGE Boot project ADDED: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.262
+!MESSAGE Boot project ADDED: SpringBootWithUserDetails
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.263
+!MESSAGE Boot project ADDED: SpringMS_JWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.265
+!MESSAGE Boot project ADDED: SpringSecurityDemo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.267
+!MESSAGE Boot project ADDED: Spring_boot_db_with_mysql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.268
+!MESSAGE Boot project ADDED: Spring_boot_using_DB
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.268
+!MESSAGE Boot project ADDED: Spring_web_app
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.269
+!MESSAGE Boot project ADDED: demo-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.270
+!MESSAGE Boot project ADDED: discovery-server
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.272
+!MESSAGE Boot project ADDED: inventory-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.275
+!MESSAGE Boot project ADDED: order-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 08:24:29.276
+!MESSAGE Boot project ADDED: product-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 09:23:45.966
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-10-20 09:23:46.557
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 09:58:16.664
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 09:58:26.463
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:01:33.677
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:07:02.631
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:07:13.825
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:07:39.664
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:07:49.853
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:08:08.711
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:08:28.762
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:08:46.088
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:08:58.067
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:09:57.504
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:10:01.796
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:14:30.517
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:14:50.075
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:16:17.190
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:18:43.216
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:18:47.076
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:39:33.196
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:40:22.946
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 10:40:30.678
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 11:20:21.615
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 11:23:03.122
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 11:23:18.091
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 11:23:29.247
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 11:57:48.455
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 11:58:05.489
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 11:58:38.244
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 11:58:45.507
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 11:58:49.642
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 11:58:59.846
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 12:02:31.556
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 12:03:01.588
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 12:10:49.293
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 12:12:41.476
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 12:13:33.956
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 12:14:01.924
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 12:47:22.457
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-10-20 12:47:24.071
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 12:47:57.187
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.eclipse.jface 2 0 2023-10-20 14:10:14.065
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-10-20 14:10:14.065
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.toggleLineCommentCommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.tm4e.languageconfiguration.toggleLineCommentCommand"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		WorkbenchHandlerServiceHandler("org.springframework.tooling.boot.ls.ToggleComment"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 14:10:52.560
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 14:21:11.214
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 14:41:56.667
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 14:45:41.207
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 16:27:21.700
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 16:30:12.141
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-20 16:30:41.137
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-10-20 16:30:41.148
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SESSION 2023-10-22 18:11:05.941 -----------------------------------------------
+eclipse.buildId=4.19.0.202306150758
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-10-22 18:11:08.799
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.jface 2 0 2023-10-22 18:11:26.972
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-10-22 18:11:26.973
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-22 18:11:39.355
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin\javaw.exe
+-cp
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/jersish.j/Documents/workspace-spring-tool-suite-4-4.19.0.RELEASE/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1697978499352
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:39.355
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-22 18:11:39.785
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 35768
+
+!ENTRY org.eclipse.lsp4e 4 0 2023-10-22 18:11:39.891
+!MESSAGE org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+!STACK 0
+java.lang.ClassNotFoundException: org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:541)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:536)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:622)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.getServerInterface(LanguageServersRegistry.java:196)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:291)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-10-22 18:11:50.371
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jersish.j'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.434
+!MESSAGE Boot project ADDED: Api-Gateway
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.434
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.434
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.434
+!MESSAGE Boot project ADDED: InventoryService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.434
+!MESSAGE Boot project ADDED: OrderService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.449
+!MESSAGE Boot project ADDED: Otp_Login_SelfService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.449
+!MESSAGE Boot project ADDED: ProductServices
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.449
+!MESSAGE Boot project ADDED: Promart
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.449
+!MESSAGE Boot project ADDED: RestAPI
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.449
+!MESSAGE Boot project ADDED: RestJPAUsingAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.449
+!MESSAGE Boot project ADDED: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.449
+!MESSAGE Boot project ADDED: SpringBootWithUserDetails
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.449
+!MESSAGE Boot project ADDED: SpringMS_JWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.465
+!MESSAGE Boot project ADDED: SpringSecurityDemo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.465
+!MESSAGE Boot project ADDED: Spring_boot_db_with_mysql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.512
+!MESSAGE Boot project ADDED: Spring_boot_using_DB
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.528
+!MESSAGE Boot project ADDED: Spring_web_app
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.528
+!MESSAGE Boot project ADDED: demo-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.528
+!MESSAGE Boot project ADDED: discovery-server
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.528
+!MESSAGE Boot project ADDED: inventory-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.528
+!MESSAGE Boot project ADDED: order-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:11:51.528
+!MESSAGE Boot project ADDED: product-service
+
+!ENTRY org.eclipse.lsp4e 4 0 2023-10-22 18:13:48.241
+!MESSAGE org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: The pipe is being closed
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: The pipe is being closed
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:446)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+Caused by: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: The pipe is being closed
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:282)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+	at jdk.proxy12/jdk.proxy12.$Proxy35.shutdown(Unknown Source)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:444)
+	... 7 more
+Caused by: java.io.IOException: The pipe is being closed
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:349)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.flush(BufferedOutputStream.java:142)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:69)
+	... 12 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-22 18:13:48.243
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin\javaw.exe
+-cp
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/jersish.j/Documents/workspace-spring-tool-suite-4-4.19.0.RELEASE/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1697978628241
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:13:48.244
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:13:48.257
+!MESSAGE DelegatingStreamConnectionProvider - Stopping Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-22 18:13:48.259
+!MESSAGE Stopped org.springframework.tooling.boot.ls LS process 35768
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-22 18:13:48.290
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 33668
+
+!ENTRY org.eclipse.lsp4e 4 0 2023-10-22 18:13:48.293
+!MESSAGE org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+!STACK 0
+java.lang.ClassNotFoundException: org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:541)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:536)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:622)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.getServerInterface(LanguageServersRegistry.java:196)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:291)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-10-22 18:13:50.638
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-22 18:14:07.768
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.eclipse.lsp4e 4 0 2023-10-22 18:14:17.789
+!MESSAGE LanguageServer not initialized within 10s
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.LanguageServerWrapper.getServerCapabilities(LanguageServerWrapper.java:826)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.capabilitiesComply(LanguageServiceAccessor.java:300)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getStartedWrappers(LanguageServiceAccessor.java:556)
+	at org.eclipse.lsp4e.LanguageServers$LanguageServerProjectExecutor.getServers(LanguageServers.java:316)
+	at org.eclipse.lsp4e.LanguageServers.executeOnServers(LanguageServers.java:403)
+	at org.eclipse.lsp4e.LanguageServers.computeFirst(LanguageServers.java:152)
+	at org.eclipse.lsp4e.LanguageServers.computeFirst(LanguageServers.java:129)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:29)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-22 18:14:19.799
+!MESSAGE executing callback sts4.classpath.qDFqGLss FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-10-22 18:14:19.897
+!MESSAGE TimeoutException
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:31)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 2 2 2023-10-22 18:26:57.101
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+!SESSION 2023-10-23 21:45:51.394 -----------------------------------------------
+eclipse.buildId=4.19.0.202306150758
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-10-23 21:45:53.267
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.jface 2 0 2023-10-23 21:46:31.716
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-10-23 21:46:31.716
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-23 21:46:37.477
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin\javaw.exe
+-cp
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/jersish.j/Documents/workspace-spring-tool-suite-4-4.19.0.RELEASE/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1698077797474
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:37.478
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-10-23 21:46:37.545
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 30072
+
+!ENTRY org.eclipse.lsp4e 4 0 2023-10-23 21:46:37.607
+!MESSAGE org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+!STACK 0
+java.lang.ClassNotFoundException: org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:541)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:536)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:622)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.getServerInterface(LanguageServersRegistry.java:196)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:291)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-10-23 21:46:39.932
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jersish.j'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.163
+!MESSAGE Boot project ADDED: Api-Gateway
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.166
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.172
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.173
+!MESSAGE Boot project ADDED: InventoryService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.174
+!MESSAGE Boot project ADDED: OrderService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.175
+!MESSAGE Boot project ADDED: Otp_Login_SelfService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.176
+!MESSAGE Boot project ADDED: ProductServices
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.177
+!MESSAGE Boot project ADDED: Promart
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.178
+!MESSAGE Boot project ADDED: RestAPI
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.179
+!MESSAGE Boot project ADDED: RestJPAUsingAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.180
+!MESSAGE Boot project ADDED: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.181
+!MESSAGE Boot project ADDED: SpringBootWithUserDetails
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.181
+!MESSAGE Boot project ADDED: SpringMS_JWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.182
+!MESSAGE Boot project ADDED: SpringSecurityDemo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.183
+!MESSAGE Boot project ADDED: Spring_boot_db_with_mysql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.184
+!MESSAGE Boot project ADDED: Spring_boot_using_DB
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.185
+!MESSAGE Boot project ADDED: Spring_web_app
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.186
+!MESSAGE Boot project ADDED: demo-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.187
+!MESSAGE Boot project ADDED: discovery-server
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.189
+!MESSAGE Boot project ADDED: inventory-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.190
+!MESSAGE Boot project ADDED: order-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-23 21:46:40.191
+!MESSAGE Boot project ADDED: product-service
+
+!ENTRY org.eclipse.core.jobs 2 2 2023-10-23 21:47:26.008
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+!SESSION 2023-11-23 10:38:22.764 -----------------------------------------------
+eclipse.buildId=4.19.0.202306150758
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-11-23 10:38:24.471
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.jface 2 0 2023-11-23 10:38:36.327
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-11-23 10:38:36.327
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-11-23 10:38:42.686
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin\javaw.exe
+-cp
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/jersish.j/Documents/workspace-spring-tool-suite-4-4.19.0.RELEASE/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1700716122684
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:42.688
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-11-23 10:38:42.779
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 17820
+
+!ENTRY org.eclipse.lsp4e 4 0 2023-11-23 10:38:42.825
+!MESSAGE org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+!STACK 0
+java.lang.ClassNotFoundException: org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:541)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:536)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:622)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.getServerInterface(LanguageServersRegistry.java:196)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:291)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-11-23 10:38:46.318
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jersish.j'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.569
+!MESSAGE Boot project ADDED: Api-Gateway
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.570
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.574
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.575
+!MESSAGE Boot project ADDED: InventoryService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.577
+!MESSAGE Boot project ADDED: OrderService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.579
+!MESSAGE Boot project ADDED: Otp_Login_SelfService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.580
+!MESSAGE Boot project ADDED: ProductServices
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.581
+!MESSAGE Boot project ADDED: Promart
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.583
+!MESSAGE Boot project ADDED: RestAPI
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.584
+!MESSAGE Boot project ADDED: RestJPAUsingAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.585
+!MESSAGE Boot project ADDED: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.585
+!MESSAGE Boot project ADDED: SpringBootWithUserDetails
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.586
+!MESSAGE Boot project ADDED: SpringMS_JWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.587
+!MESSAGE Boot project ADDED: SpringSecurityDemo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.588
+!MESSAGE Boot project ADDED: Spring_boot_db_with_mysql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.589
+!MESSAGE Boot project ADDED: Spring_boot_using_DB
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.590
+!MESSAGE Boot project ADDED: Spring_web_app
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.592
+!MESSAGE Boot project ADDED: demo-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.593
+!MESSAGE Boot project ADDED: discovery-server
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.594
+!MESSAGE Boot project ADDED: inventory-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.595
+!MESSAGE Boot project ADDED: order-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:38:46.596
+!MESSAGE Boot project ADDED: product-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:23.373
+!MESSAGE Classpath changed for project: Api-Gateway
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:26.969
+!MESSAGE Classpath changed for project: InventoryService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:29.034
+!MESSAGE Classpath changed for project: OrderService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:30.629
+!MESSAGE Classpath changed for project: OrderService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:32.136
+!MESSAGE Classpath changed for project: Otp_Login_SelfService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:33.805
+!MESSAGE Classpath changed for project: ProductServices
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:35.773
+!MESSAGE Classpath changed for project: Promart
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:37.494
+!MESSAGE Classpath changed for project: RestAPI
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:39.038
+!MESSAGE Classpath changed for project: RestJPAUsingAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:40.755
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:42.806
+!MESSAGE Classpath changed for project: SpringMS_JWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:44.870
+!MESSAGE Classpath changed for project: SpringSecurityDemo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:47.105
+!MESSAGE Classpath changed for project: SpringMS_JWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:47.106
+!MESSAGE Classpath changed for project: Spring_boot_db_with_mysql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:48.785
+!MESSAGE Classpath changed for project: Spring_boot_using_DB
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:50.493
+!MESSAGE Classpath changed for project: Spring_web_app
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:52.018
+!MESSAGE Classpath changed for project: SpringBootWithUserDetails
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:52.022
+!MESSAGE Classpath changed for project: demo-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:54.079
+!MESSAGE Classpath changed for project: discovery-server
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:55.890
+!MESSAGE Classpath changed for project: inventory-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:57.851
+!MESSAGE Classpath changed for project: order-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-23 10:39:59.895
+!MESSAGE Classpath changed for project: product-service
+!SESSION 2023-11-24 14:46:15.301 -----------------------------------------------
+eclipse.buildId=4.19.0.202306150758
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-11-24 14:46:16.851
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.jface 2 0 2023-11-24 14:46:24.258
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-11-24 14:46:24.258
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-11-24 14:46:29.433
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin\javaw.exe
+-cp
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/jersish.j/Documents/workspace-spring-tool-suite-4-4.19.0.RELEASE/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1700817389432
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:29.434
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-11-24 14:46:29.503
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 30504
+
+!ENTRY org.eclipse.lsp4e 4 0 2023-11-24 14:46:29.541
+!MESSAGE org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+!STACK 0
+java.lang.ClassNotFoundException: org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:541)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:536)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:622)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.getServerInterface(LanguageServersRegistry.java:196)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:291)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-11-24 14:46:31.173
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jersish.j'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.357
+!MESSAGE Boot project ADDED: Api-Gateway
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.358
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.361
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.362
+!MESSAGE Boot project ADDED: InventoryService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.363
+!MESSAGE Boot project ADDED: OrderService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.365
+!MESSAGE Boot project ADDED: Otp_Login_SelfService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.367
+!MESSAGE Boot project ADDED: ProductServices
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.369
+!MESSAGE Boot project ADDED: Promart
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.370
+!MESSAGE Boot project ADDED: RestAPI
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.371
+!MESSAGE Boot project ADDED: RestJPAUsingAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.373
+!MESSAGE Boot project ADDED: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.375
+!MESSAGE Boot project ADDED: SpringBootWithUserDetails
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.376
+!MESSAGE Boot project ADDED: SpringMS_JWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.378
+!MESSAGE Boot project ADDED: SpringSecurityDemo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.379
+!MESSAGE Boot project ADDED: Spring_boot_db_with_mysql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.381
+!MESSAGE Boot project ADDED: Spring_boot_using_DB
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.382
+!MESSAGE Boot project ADDED: Spring_web_app
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.382
+!MESSAGE Boot project ADDED: demo-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.383
+!MESSAGE Boot project ADDED: discovery-server
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.384
+!MESSAGE Boot project ADDED: inventory-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.386
+!MESSAGE Boot project ADDED: order-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-24 14:46:31.388
+!MESSAGE Boot project ADDED: product-service
+!SESSION 2023-11-30 11:19:51.145 -----------------------------------------------
+eclipse.buildId=4.19.0.202306150758
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-11-30 11:19:53.062
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.jface 2 0 2023-11-30 11:20:05.676
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-11-30 11:20:05.676
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-11-30 11:20:11.669
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin\javaw.exe
+-cp
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/jersish.j/Documents/workspace-spring-tool-suite-4-4.19.0.RELEASE/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1701323411667
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:11.671
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-11-30 11:20:11.748
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 11180
+
+!ENTRY org.eclipse.lsp4e 4 0 2023-11-30 11:20:11.793
+!MESSAGE org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+!STACK 0
+java.lang.ClassNotFoundException: org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:541)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:536)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:622)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.getServerInterface(LanguageServersRegistry.java:196)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:291)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-11-30 11:20:13.788
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jersish.j'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:13.991
+!MESSAGE Boot project ADDED: Api-Gateway
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:13.992
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:13.995
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:13.996
+!MESSAGE Boot project ADDED: InventoryService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:13.998
+!MESSAGE Boot project ADDED: OrderService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:13.999
+!MESSAGE Boot project ADDED: Otp_Login_SelfService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:14.000
+!MESSAGE Boot project ADDED: ProductServices
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:14.001
+!MESSAGE Boot project ADDED: Promart
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:14.003
+!MESSAGE Boot project ADDED: RestAPI
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:14.006
+!MESSAGE Boot project ADDED: RestJPAUsingAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:14.007
+!MESSAGE Boot project ADDED: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:14.008
+!MESSAGE Boot project ADDED: SpringBootWithUserDetails
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:14.009
+!MESSAGE Boot project ADDED: SpringMS_JWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:14.010
+!MESSAGE Boot project ADDED: SpringSecurityDemo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:14.010
+!MESSAGE Boot project ADDED: Spring_boot_db_with_mysql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:14.011
+!MESSAGE Boot project ADDED: Spring_boot_using_DB
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:14.012
+!MESSAGE Boot project ADDED: Spring_web_app
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:14.013
+!MESSAGE Boot project ADDED: demo-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:14.014
+!MESSAGE Boot project ADDED: discovery-server
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:14.015
+!MESSAGE Boot project ADDED: inventory-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:14.018
+!MESSAGE Boot project ADDED: order-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:20:14.021
+!MESSAGE Boot project ADDED: product-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:29:21.955
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:29:55.700
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:30:35.738
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-11-30 11:30:36.353
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:31:02.642
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:33:52.148
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:34:23.743
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:42:04.354
+!MESSAGE Classpath changed for project: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-30 11:42:31.976
+!MESSAGE Classpath changed for project: SelfService_Centre
+!SESSION 2023-12-31 13:25:47.996 -----------------------------------------------
+eclipse.buildId=4.19.0.202306150758
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-12-31 13:25:49.634
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-12-31 13:26:22.171
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2023-12-31 13:26:28.002
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-31 13:26:28.003
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-31 13:26:33.990
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin\javaw.exe
+-cp
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/jersish.j/Documents/workspace-spring-tool-suite-4-4.19.0.RELEASE/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1704009393987
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:33.993
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-31 13:26:34.244
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 36708
+
+!ENTRY org.eclipse.lsp4e 4 0 2023-12-31 13:26:34.396
+!MESSAGE org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+!STACK 0
+java.lang.ClassNotFoundException: org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:541)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:536)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:622)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.getServerInterface(LanguageServersRegistry.java:196)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:291)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-31 13:26:42.379
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jersish.j'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.786
+!MESSAGE Boot project ADDED: Api-Gateway
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.789
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.795
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.797
+!MESSAGE Boot project ADDED: InventoryService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.800
+!MESSAGE Boot project ADDED: OrderService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.804
+!MESSAGE Boot project ADDED: Otp_Login_SelfService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.807
+!MESSAGE Boot project ADDED: ProductServices
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.809
+!MESSAGE Boot project ADDED: Promart
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.815
+!MESSAGE Boot project ADDED: RestAPI
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.818
+!MESSAGE Boot project ADDED: RestJPAUsingAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.822
+!MESSAGE Boot project ADDED: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.826
+!MESSAGE Boot project ADDED: SpringBootWithUserDetails
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.828
+!MESSAGE Boot project ADDED: SpringMS_JWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.831
+!MESSAGE Boot project ADDED: SpringSecurityDemo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.838
+!MESSAGE Boot project ADDED: Spring_boot_db_with_mysql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.841
+!MESSAGE Boot project ADDED: Spring_boot_using_DB
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.844
+!MESSAGE Boot project ADDED: Spring_web_app
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.849
+!MESSAGE Boot project ADDED: demo-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.851
+!MESSAGE Boot project ADDED: discovery-server
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.853
+!MESSAGE Boot project ADDED: inventory-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.857
+!MESSAGE Boot project ADDED: order-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:26:42.859
+!MESSAGE Boot project ADDED: product-service
+!SESSION 2023-12-31 13:28:13.315 -----------------------------------------------
+eclipse.buildId=4.19.0.202306150758
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-12-31 13:28:14.847
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.jface 2 0 2023-12-31 13:28:30.196
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-31 13:28:30.196
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-31 13:28:35.011
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin\javaw.exe
+-cp
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/jersish.j/Documents/workspace-spring-tool-suite-4-4.19.0.RELEASE/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1704009515010
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:35.013
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-31 13:28:35.048
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 24628
+
+!ENTRY org.eclipse.lsp4e 4 0 2023-12-31 13:28:35.101
+!MESSAGE org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+!STACK 0
+java.lang.ClassNotFoundException: org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:541)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:536)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:622)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.getServerInterface(LanguageServersRegistry.java:196)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:291)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-31 13:28:37.988
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jersish.j'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.355
+!MESSAGE Boot project ADDED: Api-Gateway
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.357
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.360
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.362
+!MESSAGE Boot project ADDED: InventoryService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.363
+!MESSAGE Boot project ADDED: OrderService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.365
+!MESSAGE Boot project ADDED: Otp_Login_SelfService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.367
+!MESSAGE Boot project ADDED: ProductServices
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.369
+!MESSAGE Boot project ADDED: Promart
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.370
+!MESSAGE Boot project ADDED: RestAPI
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.371
+!MESSAGE Boot project ADDED: RestJPAUsingAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.373
+!MESSAGE Boot project ADDED: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.376
+!MESSAGE Boot project ADDED: SpringBootWithUserDetails
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.378
+!MESSAGE Boot project ADDED: SpringMS_JWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.381
+!MESSAGE Boot project ADDED: SpringSecurityDemo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.382
+!MESSAGE Boot project ADDED: Spring_boot_db_with_mysql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.384
+!MESSAGE Boot project ADDED: Spring_boot_using_DB
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.385
+!MESSAGE Boot project ADDED: Spring_web_app
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.387
+!MESSAGE Boot project ADDED: demo-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.388
+!MESSAGE Boot project ADDED: discovery-server
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.389
+!MESSAGE Boot project ADDED: inventory-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.390
+!MESSAGE Boot project ADDED: order-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-31 13:28:38.392
+!MESSAGE Boot project ADDED: product-service
+
+!ENTRY org.eclipse.core.jobs 2 2 2023-12-31 13:29:11.465
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+!SESSION 2024-01-12 09:19:07.129 -----------------------------------------------
+eclipse.buildId=4.19.0.202306150758
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-01-12 09:19:08.929
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.jface 2 0 2024-01-12 09:19:24.579
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-01-12 09:19:24.580
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-12 09:19:30.494
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin\javaw.exe
+-cp
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/jersish.j/Documents/workspace-spring-tool-suite-4-4.19.0.RELEASE/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1705031370492
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:30.496
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-12 09:19:30.603
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 8644
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-01-12 09:19:30.667
+!MESSAGE org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+!STACK 0
+java.lang.ClassNotFoundException: org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:541)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:536)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:622)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.getServerInterface(LanguageServersRegistry.java:196)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:291)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-01-12 09:19:33.428
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jersish.j'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.661
+!MESSAGE Boot project ADDED: Api-Gateway
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.663
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.668
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.670
+!MESSAGE Boot project ADDED: InventoryService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.678
+!MESSAGE Boot project ADDED: OrderService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.680
+!MESSAGE Boot project ADDED: Otp_Login_SelfService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.681
+!MESSAGE Boot project ADDED: ProductServices
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.683
+!MESSAGE Boot project ADDED: Promart
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.684
+!MESSAGE Boot project ADDED: RestAPI
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.686
+!MESSAGE Boot project ADDED: RestJPAUsingAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.687
+!MESSAGE Boot project ADDED: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.688
+!MESSAGE Boot project ADDED: SpringBootWithUserDetails
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.690
+!MESSAGE Boot project ADDED: SpringMS_JWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.691
+!MESSAGE Boot project ADDED: SpringSecurityDemo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.693
+!MESSAGE Boot project ADDED: Spring_boot_db_with_mysql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.695
+!MESSAGE Boot project ADDED: Spring_boot_using_DB
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.697
+!MESSAGE Boot project ADDED: Spring_web_app
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.698
+!MESSAGE Boot project ADDED: demo-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.699
+!MESSAGE Boot project ADDED: discovery-server
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.700
+!MESSAGE Boot project ADDED: inventory-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.703
+!MESSAGE Boot project ADDED: order-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:19:33.704
+!MESSAGE Boot project ADDED: product-service
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-01-12 09:50:05.642
+!MESSAGE org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: The pipe is being closed
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: The pipe is being closed
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:446)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+Caused by: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: The pipe is being closed
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:282)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+	at jdk.proxy13/jdk.proxy13.$Proxy39.shutdown(Unknown Source)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:444)
+	... 7 more
+Caused by: java.io.IOException: The pipe is being closed
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:349)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.flush(BufferedOutputStream.java:142)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:69)
+	... 12 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-12 09:50:05.643
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin\javaw.exe
+-cp
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/jersish.j/Documents/workspace-spring-tool-suite-4-4.19.0.RELEASE/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1705033205642
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:50:05.644
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 09:50:05.657
+!MESSAGE DelegatingStreamConnectionProvider - Stopping Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-12 09:50:05.658
+!MESSAGE Stopped org.springframework.tooling.boot.ls LS process 8644
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-12 09:50:05.667
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 28932
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-01-12 09:50:05.672
+!MESSAGE org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+!STACK 0
+java.lang.ClassNotFoundException: org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:541)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:536)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:622)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.getServerInterface(LanguageServersRegistry.java:196)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:291)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+!SESSION 2024-01-12 19:43:01.350 -----------------------------------------------
+eclipse.buildId=4.19.0.202306150758
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-01-12 19:43:03.234
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.jface 2 0 2024-01-12 19:56:51.196
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-01-12 19:56:51.197
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-12 19:56:56.669
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin\javaw.exe
+-cp
+C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\jersish.j\Downloads\sts-4.19.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.47.0.202306150731\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/jersish.j/Documents/workspace-spring-tool-suite-4-4.19.0.RELEASE/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1705069616666
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:56.670
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-01-12 19:56:56.706
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 34416
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-01-12 19:56:56.745
+!MESSAGE org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+!STACK 0
+java.lang.ClassNotFoundException: org.springframework.ide.vscode.commons.protocol.spring.SpringModelLanguageServer cannot be found by org.springframework.tooling.boot.ls_1.47.0.202306150731
+	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:541)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:536)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:622)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.getServerInterface(LanguageServersRegistry.java:196)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:291)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-01-12 19:56:58.986
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jersish.j'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.243
+!MESSAGE Boot project ADDED: Api-Gateway
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.244
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.246
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.248
+!MESSAGE Boot project ADDED: InventoryService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.249
+!MESSAGE Boot project ADDED: OrderService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.250
+!MESSAGE Boot project ADDED: Otp_Login_SelfService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.251
+!MESSAGE Boot project ADDED: ProductServices
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.252
+!MESSAGE Boot project ADDED: Promart
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.253
+!MESSAGE Boot project ADDED: RestAPI
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.254
+!MESSAGE Boot project ADDED: RestJPAUsingAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.255
+!MESSAGE Boot project ADDED: SelfService_Centre
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.256
+!MESSAGE Boot project ADDED: SpringBootWithUserDetails
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.258
+!MESSAGE Boot project ADDED: SpringMS_JWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.260
+!MESSAGE Boot project ADDED: SpringSecurityDemo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.261
+!MESSAGE Boot project ADDED: Spring_boot_db_with_mysql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.262
+!MESSAGE Boot project ADDED: Spring_boot_using_DB
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.263
+!MESSAGE Boot project ADDED: Spring_web_app
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.264
+!MESSAGE Boot project ADDED: demo-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.265
+!MESSAGE Boot project ADDED: discovery-server
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.266
+!MESSAGE Boot project ADDED: inventory-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.267
+!MESSAGE Boot project ADDED: order-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-12 19:56:59.268
+!MESSAGE Boot project ADDED: product-service
